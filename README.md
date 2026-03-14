@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./introduce_myself.png" width="900">
+</p>
 # 👋 Hi, I'm Yongjun
 
 ---
