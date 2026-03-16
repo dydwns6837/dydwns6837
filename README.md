@@ -10,29 +10,18 @@ Java | Spring | React | PostgreSQL
 
 ---
 
+## Certificate
+- 정보처리기사
+- sqld
+
 ## 🏆 Career & Projects
-[2023]
--
 [2024]
--
+- 2024.03 ~ 2024.11 캡스톤 디자인
+- 2024.07 애드업 인턴(교내 단기 인턴)
 [2025]
 - 2025.01 강남대- 교내 해커톤 대상
 ---
 
-## 🛠 Tech Stack
-Java | Spring | React | PostgreSQL
-
----
-
-## 🏆 Career
-[2023]
--
-[2024]
--
-[2025]
-- 2025.01 교내 해커톤 대상
-
----
 
 ## 📊 GitHub Stats
 
