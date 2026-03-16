@@ -10,7 +10,7 @@ Java | Spring | React | PostgreSQL
 
 ---
 
-## 🏆 Career
+## 🏆 Career & Projects
 [2023]
 -
 [2024]
