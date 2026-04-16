@@ -30,4 +30,4 @@ Java | Spring | React | PostgreSQL
 
 ## 🧠 Algorithm
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydwns6837)](https://solved.ac/profile/dydwns6837) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dydwns6837&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydwns6837)](https://solved.ac/profile/dydwns6837)
